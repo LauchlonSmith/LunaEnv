@@ -8,3 +8,12 @@ Luna is a code environment based in python
 # Usage
 1) Copy luna.py to your project folder
 2) File extension .l
+# Example
+main file (main.l)
+luna env (luna.py)
+open cmd
+cd to project folder
+type "luna.py"
+
+If any problems contact me :
+slocknesmonster@gmail.com
